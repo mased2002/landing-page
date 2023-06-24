@@ -59,6 +59,9 @@ color: #b2b5ba;
 text-align: center;
 width: 44%;
 height: 200px;
+display: flex;
+align-items: center;
+justify-content: center;
 }
 .main-button {
     background-color: #3882f6;
